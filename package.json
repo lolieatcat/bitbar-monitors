@@ -1,0 +1,9 @@
+{
+  "name": "monitors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@makerdao/multicall": "^0.12.0"
+  }
+}
